@@ -1,1 +1,1 @@
-Greetings, Mortals!! 👋.
+<strong>Greetings, Mortals!!</strong> 👋.
