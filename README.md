@@ -39,5 +39,5 @@ Welcome to my corner of the digital world! I'm Amin, a passionate Full-Stack Dev
 ### 🌟 Fun Facts About Me:
 - My workflow involves *lots* of caffeine ☕️.
 - I am fascinated by cutting-edge technology, especially in AI and performance engineering.
-- I dislike traditional game engine editors and prefer working with code – *fast refresh is a must!*
+- I dislike traditional game engine editors and prefer working with code – *fast refresh/hot reload is a must!*
 
