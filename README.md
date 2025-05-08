@@ -8,6 +8,7 @@ Welcome to my corner of the digital world! I'm Amin, a passionate Full-Stack Dev
 - **Flutter** – *This is Awesome!* I absolutely love building cross-platform apps with Flutter.
 - **ReactJS & NextJS** – The dynamic duo for building sleek and scalable web apps.  
   - **TypeScript** – Strong typing for better tooling and maintainability.
+- **React Native(Expo)** - Recently I moved to it, and Seems Great 
 
 ### **Backend Development**:
 - **Node.js** – *I ❤️ It* – My go-to for building fast, scalable backends.
