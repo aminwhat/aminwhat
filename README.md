@@ -1,6 +1,6 @@
 # Greetings, Mortals!! 👋
 
-Welcome to my corner of the digital world! I'm Amin, a passionate Full-Stack Developer with a deep love for creating impactful applications. Whether it's web, mobile, or even performance-critical systems, I enjoy solving complex problems with elegant solutions.
+I'm Amin, a passionate Software Engineer with a deep love for creating impactful applications. Whether it's web, mobile, or even performance-critical systems, I enjoy solving complex problems with elegant solutions.
 
 ## 🛠️ Technologies I Work With
 
@@ -14,7 +14,7 @@ Welcome to my corner of the digital world! I'm Amin, a passionate Full-Stack Dev
 - **Node.js** – *I ❤️ It* – My go-to for building fast, scalable backends.
   - **Express.js** – Lightweight and flexible web framework.
   - **NestJS** – A powerful framework for building robust and scalable server-side applications.
-- **ASP.NET Core** – *WHAT THE HELL??!!! RUNNNNNNN!!!!* Well, sometimes we have to face the unknown, right?
+- **ASP.NET Core** – *WHAT THE HELL??!!! RUNNNNNNN!!!!* Well, sometimes we have to face the daemon, right?
 
 ### **Python**:
 - **FastAPI** – Super fast, modern web framework for building APIs.
