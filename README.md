@@ -5,7 +5,6 @@ I'm Amin, a passionate Software Engineer with a deep love for creating impactful
 ## 🛠️ Technologies I Work With
 
 ### **Frontend Development**:
-- **Flutter** – *This is Awesome!* I absolutely love building cross-platform apps with Flutter.
 - **ReactJS & NextJS** – The dynamic duo for building sleek and scalable web apps.  
   - **TypeScript** – Strong typing for better tooling and maintainability.
 - **React Native(Expo)** - Recently I moved to it, and Seems Great 
